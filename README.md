@@ -6,8 +6,13 @@
 - LET-OVER-LAMBDA: [Source-Code](https://github.com/thephoeron/let-over-lambda), [Documentation](let-over-lambda/)
 - OPEN-BLACKFIRE: [Source-Code](https://github.com/thephoeron/open-blackfire), [Documentation](open-blackfire/)
 - PROTOCOL-OMEGA: [Source-Code](https://github.com/thephoeron/protocol-omega), [Documentation](protocol-omega/)
+- PROTOCOL-PHI: [Source-Code](https://github.com/thephoeron/protocol-phi), [Documentation](protocol-phi/)
 
-I am presently accepting sponsorship for my open-source software development via [GitHub Sponsors](https://github.com/sponsors/thephoeron)
+# Sponsorship
+
+I am presently accepting sponsorship for my open-source software development:
+
+- [GitHub Sponsors](https://github.com/sponsors/thephoeron)
 
 ---
 
