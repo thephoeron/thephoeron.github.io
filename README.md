@@ -1,5 +1,6 @@
 # Common Lisp Libraries
 
+- BAPHOMET: [Source-Code](https://github.com/thephoeron/baphomet), [Documentation](baphomet/)
 - BIT-SMASHER: [Source-Code](https://github.com/thephoeron/bit-smasher), [Documentation](bit-smasher/)
 - CL-ISAAC: [Source-Code](https://github.com/thephoeron/cl-isaac), [Documentation](cl-isaac/)
 - GENERALIZED-REFERENCE: [Source-Code](https://github.com/thephoeron/generalized-reference), [Documentation](generalized-reference/)
